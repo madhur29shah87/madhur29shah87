@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Madhur Shah
-- 👀 I’m a Lead UI developer
+- Hi, I’m **MADHUR SHAH**
+- Lead UI developer
 - 🌱 I’m currently RxJS, CSS and JS animation
 - 💞️ I’m looking to collaborate on web-components angular libraries
 - 📫 How to reach me - madhur29.shah@gmail.com 
