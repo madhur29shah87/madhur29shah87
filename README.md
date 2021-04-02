@@ -1,7 +1,6 @@
 - Hi, I’m **MADHUR SHAH**
-- Lead UI developer
-- 🌱 I’m currently RxJS, CSS and JS animation
-- 💞️ I’m looking to collaborate on web-components angular libraries
+- UI developer
+- Skillset - Polymer, Angular, JS, CSS
 - 📫 How to reach me - madhur29.shah@gmail.com 
 
 <!---
