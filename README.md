@@ -1,6 +1,6 @@
 - Hi, I’m **MADHUR SHAH**
-- UI developer
-- Skillset - Polymer, Angular, JS, CSS
+- Lead UI engineer
+- Skillset - Angular, Ngrx, Rxjs, Material UI, JS, es5, es6, CSS, 
 - How to reach me - madhur29.shah@gmail.com 
 
 <!---
