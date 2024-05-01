@@ -1,6 +1,6 @@
 - Hi, I’m **MADHUR SHAH**
 - Lead UI engineer
-- Skillset - Angular, Ngrx, Rxjs, Material UI, JS, es5, es6, CSS, 
+- Skillset - Angular, Ngrx, Rxjs, Material UI, JS, es5, es6, CSS, Polymer JS, npm , webpack, karma, jasmine, mocha, chai
 - How to reach me - madhur29.shah@gmail.com 
 
 <!---
